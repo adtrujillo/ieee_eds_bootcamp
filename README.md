@@ -8,6 +8,6 @@ Aprenderás a utilizar las herramientas IIC-OSIC-TOOLS y a configurar LibreLane,
 
 - [Lab 1](./lab1/complete_flow.md): Implementa un flujo de diseno con un contador.
 - [Lab 2](./lab2/librelane_steps.md): Conoce la lista de todos los pasos y ejecuta un flujo interactivo.
-- [Lab 3](./lab3/lab3.md): Controla el flujo, establece variables para diseno avanzado
+- [Lab 3](./lab3/make_your_design.md): Controla el flujo, establece variables para diseno avanzado
 - [Lab 4](./lab4/lab4.md): Exporta un diseno!
     
